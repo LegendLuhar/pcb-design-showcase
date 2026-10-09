@@ -201,4 +201,4 @@ I especially enjoy engineering problems where the most interesting solution come
 Electrical & Computer Engineering | Rice University
 
 [GitHub](https://github.com/LegendLuhar) |
-[LinkedIn](https://linkedin.com/in/rahul-kishore06) |
+[LinkedIn](https://linkedin.com/in/rahul-kishore06)
