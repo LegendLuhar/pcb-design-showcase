@@ -56,7 +56,13 @@ I also developed embedded C/C++ firmware for STM32-based LiDAR data acquisition 
 
 One aspect I particularly enjoyed was developing a Web Serial API interface to visualize UART telemetry directly on a computer. I used AI-assisted development to accelerate portions of the firmware and visualization work, while testing the resulting functionality against the actual hardware.
 
-**[View Hardware Demonstration Video](assets/videos/lidar-demo.mov)**
+### Hardware Demonstration
+
+The following video demonstrates the LiDAR system and its telemetry visualization interface.
+
+https://github.com/user-attachments/assets/29361047-5b0f-40eb-8212-83bb15a60f95
+
+
 
 ---
 
